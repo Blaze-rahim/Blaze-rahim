@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="HELLO WORLD"  style="padding-left: 200px;" >
+
 <h1 align="center">Hi 👋, I'm AbduRahim Shaikh</h1>
 <h3 align="center">A passionate developer.</h3>
 

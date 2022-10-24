@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blazerahim&show_icons=true&locale=en" alt="blazerahim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blazerahim&" alt="blazerahim" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Blazerahim&theme=dark&hide_border=true)](https://git.io/streak-stats)

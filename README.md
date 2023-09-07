@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python, C, MySQL.**
 
-- 📫 How to reach me **arahim.as@yahoo.com**
+- 📫 Reach me @ **arahim.as@yahoo.com**
 
 - ⚡ Fun fact **I lose track of time while I code.**
 
